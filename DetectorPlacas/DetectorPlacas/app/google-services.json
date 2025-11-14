@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806590922261",
+    "project_id": "detectorplacas-f3c0c",
+    "storage_bucket": "detectorplacas-f3c0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806590922261:android:fa174961ffafaceef3181c",
+        "android_client_info": {
+          "package_name": "com.example.detectorplacas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7iec-4VwxXCiJxu3QS7c4MG6HAfXo6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
